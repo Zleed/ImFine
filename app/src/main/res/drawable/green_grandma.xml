@@ -1,0 +1,269 @@
+<animated-vector xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    tools:targetApi="lollipop">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:name="vector"
+            android:width="666dp"
+            android:height="666dp"
+            android:viewportWidth="666"
+            android:viewportHeight="666">
+
+            <path
+                android:name="left_eye"
+                android:pathData="M 250.313 400.355 C 254.032 412.061 265.015 420.565 277.935 420.565 C 290.856 420.565 301.821 412.061 305.54 400.355 Z"                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+            <path
+                android:name="right_eye"
+                android:pathData="M 361.116 400.355 C 364.835 412.061 375.8 420.565 388.72 420.565 C 401.64 420.565 412.621 412.061 416.343 400.355 Z"                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+            <path
+                android:name="glasses"
+                android:pathData="M 388.72 438.129 C 363.055 438.129 342.189 417.247 342.189 391.572 C 342.189 386.631 338.173 382.615 333.231 382.615 C 328.483 382.615 324.467 386.717 324.467 391.572 C 324.467 417.247 303.603 438.129 277.935 438.129 C 252.269 438.129 231.387 417.247 231.387 391.572 C 231.387 386.717 235.316 382.789 240.168 382.789 L 278.809 382.789 C 278.809 377.936 282.737 374.008 287.591 374.008 C 292.445 374.008 296.373 377.936 296.373 382.789 L 308.387 382.789 C 311.983 372.471 321.76 365.051 333.231 365.051 C 344.773 365.051 354.62 372.471 358.251 382.789 L 370.283 382.789 C 370.283 377.936 374.211 374.008 379.064 374.008 C 383.919 374.008 387.847 377.936 387.847 382.789 L 426.485 382.789 C 431.34 382.789 435.268 386.717 435.268 391.572 C 435.268 417.247 414.387 438.129 388.72 438.129 Z"
+                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+            <path
+                android:name="mouth"
+                android:pathData="M 333.319 491.269 C 308.613 491.269 285.181 481.971 269.065 465.751 C 265.643 462.311 265.661 456.751 269.101 453.328 C 272.523 449.897 278.076 449.924 281.532 453.372 C 294.365 466.292 313.256 473.704 333.319 473.704 C 353.397 473.704 372.291 466.292 385.124 453.372 C 388.561 449.94 394.115 449.916 397.556 453.328 C 400.996 456.751 401.011 462.311 397.589 465.751 C 381.475 481.971 358.043 491.269 333.319 491.269 Z"
+                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+            <path
+                android:name="hair_top"
+                android:pathData="M 275.823 178.681 C 293.615 178.681 312.96 183.491 333.231 195.128 C 355.825 182.181 377.336 177.712 396.699 178.907 C 386.276 153.808 361.343 136.655 333.231 136.655 C 305.244 136.655 280.396 153.792 269.973 178.855 C 271.912 178.733 273.849 178.681 275.823 178.681 Z"
+                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+            <path
+                android:name="hair_bottom"
+                android:pathData="M 257.193 198.315 C 236.433 203.187 219.233 215.94 207.153 231.096 C 179.32 265.981 171.952 322.324 210.661 363.932 C 211.115 363.915 211.569 363.888 212.041 363.845 C 254.695 362.64 307.809 332.723 324.747 269.823 C 325.776 265.997 329.251 263.336 333.213 263.327 L 333.231 263.327 C 337.195 263.327 340.653 265.972 341.699 269.795 C 358.164 330.043 407.612 360.353 449.307 363.669 C 451.647 363.776 453.933 363.881 456.203 363.888 C 494.755 322.203 487.281 265.876 459.433 231.079 C 447.316 215.924 430.049 203.168 409.2 198.323 C 408.449 198.445 406.668 198.079 405.499 197.555 C 385.629 193.932 362.617 197.485 337.859 212.815 C 335.029 214.579 331.433 214.579 328.604 212.815 C 304.02 197.555 281.271 193.896 261.365 197.451 C 260.091 198.069 258.501 198.393 257.193 198.315 Z"
+                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+            <path
+                android:name="face"
+                android:pathData="M 213.14 442.696 C 216.913 442.696 220.3 445.113 221.487 448.728 C 237.497 497.345 282.492 530.012 333.424 530.012 C 384.319 530.012 429.299 497.415 445.343 448.892 C 446.617 445.025 450.564 442.765 454.492 442.879 C 466.941 442.879 476.335 435.065 478.028 424.292 L 481.031 406.937 C 482.917 395.021 474.78 383.689 462.856 381.803 C 463.152 381.881 461.775 381.733 460.324 381.497 C 460.148 381.471 459.957 381.436 459.781 381.392 C 456.047 381.533 452.344 381.392 448.468 381.209 C 406.005 377.848 357.169 350.855 333.213 297.976 C 310.935 346.725 264.352 379.944 213.019 381.384 C 211.133 381.533 209.091 381.54 206.977 381.428 L 203.468 381.845 C 191.875 383.689 183.739 395.021 185.64 407.068 L 188.453 424.239 C 190.216 434.751 200.972 443.481 212.74 442.703 C 212.88 442.696 213.001 442.696 213.14 442.696 Z"
+                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+            <path
+                android:name="outline"
+                android:pathData="M 333.424 547.579 C 276.941 547.579 226.829 512.641 206.856 460.015 C 189.116 457.929 174.048 444.492 171.113 427.112 L 168.285 409.852 C 165.457 391.893 175.077 374.828 190.704 367.591 C 153.323 319.768 162.647 258.717 193.411 220.14 C 206.787 203.377 226.463 188.503 250.331 182.059 C 260.509 145.235 294.487 119.088 333.231 119.088 C 372.115 119.088 406.18 145.279 416.359 182.147 C 440.157 188.597 459.8 203.413 473.157 220.104 C 503.956 258.613 513.385 319.723 476.056 367.643 C 491.612 374.907 501.197 391.921 498.368 409.809 L 495.367 427.155 C 492.539 445.079 477.784 458.513 459.993 460.129 C 440.019 512.684 389.891 547.579 333.424 547.579"
+                android:fillColor="#4fea9a"
+                android:fillAlpha="0"
+                android:strokeColor="#4fea9a"
+                android:strokeWidth="8"
+                android:trimPathEnd="0"
+                android:strokeLineCap="round"
+                android:strokeLineJoin="round"
+                android:strokeMiterLimit="1"/>
+
+        </vector>
+    </aapt:attr>
+    <target android:name="left_eye">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="right_eye">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="glasses">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="mouth">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="hair_top">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="hair_bottom">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="face">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="outline">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="trimPathEnd"
+                    android:duration="2000"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_linear_in"/>
+                <objectAnimator
+                    android:propertyName="strokeColor"
+                    android:duration="2000"
+                    android:valueFrom="#3f51b5"
+                    android:valueTo="#4fea9a"
+                    android:valueType="colorType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>
